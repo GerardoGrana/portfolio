@@ -1,0 +1,827 @@
+Index,ID,Tipo de punto,Numero,Clasificacion,ClasificacionNum,TipoResiduo,Cantidad,CantidadNum,żSe realiza recolección en el momento?,Calidad (grupos)
+1,PV11,Punto Verde,11,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+2,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+3,PV11,Punto Verde,11,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+4,PV7,Punto Verde,7,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+5,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+6,PV7,Punto Verde,7,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+7,PV3,Punto Verde,3,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+8,PV3,Punto Verde,3,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+9,PV3,Punto Verde,3,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+10,PV8,Punto Verde,8,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+11,PV8,Punto Verde,8,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+12,PV8,Punto Verde,8,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+13,PV12,Punto Verde,12,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+14,PV12,Punto Verde,12,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+15,PV12,Punto Verde,12,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+16,PV13,Punto Verde,13,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+17,PV13,Punto Verde,13,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+18,PV13,Punto Verde,13,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+19,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+20,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+21,PV18,Punto Verde,18,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+22,PV27,Punto Verde,27,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+23,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+24,PV27,Punto Verde,27,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+25,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+26,PV25,Punto Verde,25,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+27,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+28,PV28,Punto Verde,28,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+29,PV28,Punto Verde,28,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+30,PV28,Punto Verde,28,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+31,PV29,Punto Verde,29,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+32,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+33,PV29,Punto Verde,29,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+34,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+35,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+36,PV24,Punto Verde,24,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+37,PV32,Punto Verde,32,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+38,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+39,PV32,Punto Verde,32,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+40,PV33,Punto Verde,33,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+41,PV33,Punto Verde,33,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+42,PV33,Punto Verde,33,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+43,PV34,Punto Verde,34,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+44,PV34,Punto Verde,34,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+45,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+46,PV35,Punto Verde,35,Buena,1.00,Plástico,Bajo,1.00,Sí,Buena
+47,PV35,Punto Verde,35,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+48,PV35,Punto Verde,35,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+49,PV38,Punto Verde,38,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+50,PV38,Punto Verde,38,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+51,PV38,Punto Verde,38,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+52,PV36,Punto Verde,36,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+53,PV36,Punto Verde,36,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+54,PV36,Punto Verde,36,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+55,PV21,Punto Verde,21,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+56,PV21,Punto Verde,21,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+57,PV21,Punto Verde,21,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+58,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+59,PV20,Punto Verde,20,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+60,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+61,PV23,Punto Verde,23,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+62,PV23,Punto Verde,23,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+63,PV23,Punto Verde,23,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+64,PV13,Punto Verde,13,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+65,PV13,Punto Verde,13,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+66,PV13,Punto Verde,13,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+67,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+68,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+69,PV18,Punto Verde,18,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+70,PV25,Punto Verde,25,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+71,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+72,PV25,Punto Verde,25,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+73,PV28,Punto Verde,28,Mala,3.00,Papel,Bajo,1.00,Sí,Mala
+74,PV28,Punto Verde,28,Mala,3.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Mala
+75,PV28,Punto Verde,28,Mala,3.00,Plástico,Bajo,1.00,Sí,Mala
+76,PV27,Punto Verde,27,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+77,PV27,Punto Verde,27,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+78,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+79,PV29,Punto Verde,29,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+80,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+81,PV29,Punto Verde,29,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+82,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+83,PV24,Punto Verde,24,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+84,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+85,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+86,PV32,Punto Verde,32,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+87,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+88,PV33,Punto Verde,33,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+89,PV33,Punto Verde,33,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+90,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+91,PV34,Punto Verde,34,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+92,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+93,PV34,Punto Verde,34,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+94,PV35,Punto Verde,35,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+95,PV35,Punto Verde,35,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+96,PV35,Punto Verde,35,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+97,PV36,Punto Verde,36,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+98,PV36,Punto Verde,36,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+99,PV36,Punto Verde,36,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+100,PV21,Punto Verde,21,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+101,PV21,Punto Verde,21,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+102,PV21,Punto Verde,21,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+103,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+104,PV20,Punto Verde,20,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+105,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+106,PV23,Punto Verde,23,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+107,PV23,Punto Verde,23,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+108,PV23,Punto Verde,23,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+109,PV11,Punto Verde,11,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+110,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+111,PV11,Punto Verde,11,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+112,PV7,Punto Verde,7,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+113,PV7,Punto Verde,7,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+114,PV7,Punto Verde,7,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+115,PV3,Punto Verde,3,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+116,PV3,Punto Verde,3,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+117,PV3,Punto Verde,3,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+118,PV1,Punto Verde,1,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+119,PV1,Punto Verde,1,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+120,PV1,Punto Verde,1,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+121,PV8,Punto Verde,8,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+122,PV8,Punto Verde,8,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+123,PV8,Punto Verde,8,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+124,PV5,Punto Verde,5,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+125,PV5,Punto Verde,5,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+126,PV5,Punto Verde,5,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+127,PV4,Punto Verde,4,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+128,PV4,Punto Verde,4,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+129,PV4,Punto Verde,4,Regular,2.00,Papel,Alto,3.00,Sí,Regular
+130,PV3,Punto Verde,3,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+131,PV3,Punto Verde,3,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+132,PV3,Punto Verde,3,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+133,PV2,Punto Verde,2,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+134,PV2,Punto Verde,2,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+135,PV2,Punto Verde,2,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+136,PV18,Punto Verde,18,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+137,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+138,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+139,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+140,PV25,Punto Verde,25,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+141,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+142,PV27,Punto Verde,27,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+143,PV27,Punto Verde,27,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+144,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+145,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+146,PV28,Punto Verde,28,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+147,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+148,PV29,Punto Verde,29,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+149,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+150,PV29,Punto Verde,29,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+151,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+152,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+153,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+154,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+155,PV32,Punto Verde,32,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+156,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+157,PV33,Punto Verde,33,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+158,PV33,Punto Verde,33,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+159,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+160,PV34,Punto Verde,34,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+161,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+162,PV34,Punto Verde,34,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+163,PV35,Punto Verde,35,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+164,PV35,Punto Verde,35,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+165,PV35,Punto Verde,35,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+166,PV36,Punto Verde,36,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+167,PV36,Punto Verde,36,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+168,PV36,Punto Verde,36,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+169,PV8,Punto Verde,8,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+170,PV8,Punto Verde,8,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+171,PV8,Punto Verde,8,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+172,PV18,Punto Verde,18,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+173,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+174,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+175,PV25,Punto Verde,25,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+176,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+177,PV25,Punto Verde,25,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+178,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+179,PV28,Punto Verde,28,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+180,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+181,PV27,Punto Verde,27,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+182,PV27,Punto Verde,27,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+183,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+184,PV29,Punto Verde,29,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+185,PV29,Punto Verde,29,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+186,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+187,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+188,PV24,Punto Verde,24,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+189,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+190,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+191,PV32,Punto Verde,32,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+192,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+193,PV33,Punto Verde,33,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+194,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+195,PV33,Punto Verde,33,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+196,PV34,Punto Verde,34,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+197,PV34,Punto Verde,34,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+198,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+199,PV35,Punto Verde,35,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+200,PV35,Punto Verde,35,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+201,PV35,Punto Verde,35,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+202,PV36,Punto Verde,36,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+203,PV36,Punto Verde,36,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+204,PV36,Punto Verde,36,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+205,PV21,Punto Verde,21,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+206,PV21,Punto Verde,21,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+207,PV21,Punto Verde,21,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+208,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+209,PV20,Punto Verde,20,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+210,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+211,PV23,Punto Verde,23,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+212,PV23,Punto Verde,23,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+213,PV23,Punto Verde,23,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+214,PV11,Punto Verde,11,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+215,PV11,Punto Verde,11,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+216,PV11,Punto Verde,11,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+217,PV7,Punto Verde,7,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+218,PV7,Punto Verde,7,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+219,PV7,Punto Verde,7,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+220,PV3,Punto Verde,3,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+221,PV3,Punto Verde,3,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+222,PV3,Punto Verde,3,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+223,PV1,Punto Verde,1,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+224,PV1,Punto Verde,1,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+225,PV1,Punto Verde,1,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+226,PV34,Punto Verde,34,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+227,PV34,Punto Verde,34,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+228,PV34,Punto Verde,34,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+229,PV35,Punto Verde,35,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+230,PV35,Punto Verde,35,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+231,PV35,Punto Verde,35,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+232,PV36,Punto Verde,36,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+233,PV36,Punto Verde,36,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+234,PV36,Punto Verde,36,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+235,PV31,Punto Verde,31,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+236,PV31,Punto Verde,31,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+237,PV31,Punto Verde,31,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+238,PV21,Punto Verde,21,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+239,PV21,Punto Verde,21,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+240,PV21,Punto Verde,21,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+241,PV20,Punto Verde,20,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+242,PV20,Punto Verde,20,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+243,PV20,Punto Verde,20,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+244,PV23,Punto Verde,23,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+245,PV23,Punto Verde,23,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+246,PV23,Punto Verde,23,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+247,PV11,Punto Verde,11,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+248,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+249,PV11,Punto Verde,11,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+250,PV7,Punto Verde,7,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+251,PV7,Punto Verde,7,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+252,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+253,PV3,Punto Verde,3,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+254,PV3,Punto Verde,3,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+255,PV3,Punto Verde,3,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+256,PV1,Punto Verde,1,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+257,PV1,Punto Verde,1,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+258,PV1,Punto Verde,1,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+259,PV8,Punto Verde,8,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+260,PV8,Punto Verde,8,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+261,PV8,Punto Verde,8,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+262,PV18,Punto Verde,18,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+263,PV18,Punto Verde,18,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+264,PV18,Punto Verde,18,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+265,PV19,Punto Verde,19,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+266,PV19,Punto Verde,19,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+267,PV19,Punto Verde,19,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+268,PV27,Punto Verde,27,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+269,PV27,Punto Verde,27,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+270,PV27,Punto Verde,27,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+271,PV28,Punto Verde,28,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+272,PV28,Punto Verde,28,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+273,PV28,Punto Verde,28,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+274,PV25,Punto Verde,25,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+275,PV25,Punto Verde,25,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+276,PV25,Punto Verde,25,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+277,PV24,Punto Verde,24,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+278,PV24,Punto Verde,24,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+279,PV24,Punto Verde,24,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+280,PV29,Punto Verde,29,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+281,PV29,Punto Verde,29,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+282,PV29,Punto Verde,29,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+283,PV32,Punto Verde,32,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+284,PV32,Punto Verde,32,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+285,PV32,Punto Verde,32,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+286,PV33,Punto Verde,33,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+287,PV33,Punto Verde,33,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+288,PV33,Punto Verde,33,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+289,PV4,Punto Verde,4,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+290,PV4,Punto Verde,4,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+291,PV4,Punto Verde,4,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+292,PV9,Punto Verde,9,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+293,PV9,Punto Verde,9,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+294,PV9,Punto Verde,9,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+295,PV14,Punto Verde,14,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+296,PV14,Punto Verde,14,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+297,PV14,Punto Verde,14,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+298,PV8,Punto Verde,8,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+299,PV8,Punto Verde,8,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+300,PV8,Punto Verde,8,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+301,PV4,Punto Verde,4,Buena,1.00,"Vidrio, Metal, Tetra",Nulo,,Sí,Buena
+302,PV4,Punto Verde,4,Buena,1.00,Plástico,Bajo,1.00,Sí,Buena
+303,PV4,Punto Verde,4,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+304,PV12,Punto Verde,12,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+305,PV12,Punto Verde,12,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+306,PV12,Punto Verde,12,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+307,PV18,Punto Verde,18,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+308,PV18,Punto Verde,18,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+309,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+310,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+311,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+312,PV25,Punto Verde,25,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+313,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+314,PV28,Punto Verde,28,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+315,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+316,PV27,Punto Verde,27,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+317,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+318,PV27,Punto Verde,27,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+319,PV29,Punto Verde,29,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+320,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+321,PV29,Punto Verde,29,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+322,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,No,Regular
+323,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,No,Regular
+324,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,No,Regular
+325,PV24,Punto Verde,24,Mala,3.00,Papel,Medio,2.00,Sí,Mala
+326,PV24,Punto Verde,24,Mala,3.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Mala
+327,PV24,Punto Verde,24,Mala,3.00,Plástico,Bajo,1.00,Sí,Mala
+328,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+329,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+330,PV32,Punto Verde,32,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+331,PV33,Punto Verde,33,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+332,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+333,PV33,Punto Verde,33,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+334,PV34,Punto Verde,34,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+335,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+336,PV34,Punto Verde,34,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+337,PV35,Punto Verde,35,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+338,PV35,Punto Verde,35,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+339,PV35,Punto Verde,35,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+340,PV36,Punto Verde,36,Regular,2.00,Papel,Medio,2.00,No,Regular
+341,PV36,Punto Verde,36,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,No,Regular
+342,PV36,Punto Verde,36,Regular,2.00,Plástico,Medio,2.00,No,Regular
+343,PV21,Punto Verde,21,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+344,PV21,Punto Verde,21,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+345,PV21,Punto Verde,21,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+346,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+347,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+348,PV20,Punto Verde,20,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+349,PV23,Punto Verde,23,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+350,PV23,Punto Verde,23,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+351,PV23,Punto Verde,23,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+352,PV11,Punto Verde,11,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+353,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+354,PV11,Punto Verde,11,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+355,PV7,Punto Verde,7,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+356,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+357,PV7,Punto Verde,7,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+358,PV3,Punto Verde,3,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+359,PV3,Punto Verde,3,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+360,PV3,Punto Verde,3,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+361,PV1,Punto Verde,1,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+362,PV1,Punto Verde,1,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+363,PV1,Punto Verde,1,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+364,PV8,Punto Verde,8,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+365,PV8,Punto Verde,8,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+366,PV8,Punto Verde,8,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+367,PV18,Punto Verde,18,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+368,PV18,Punto Verde,18,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+369,PV18,Punto Verde,18,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+370,PV25,Punto Verde,25,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+371,PV25,Punto Verde,25,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+372,PV25,Punto Verde,25,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+373,PV28,Punto Verde,28,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+374,PV28,Punto Verde,28,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+375,PV28,Punto Verde,28,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+376,PV27,Punto Verde,27,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+377,PV27,Punto Verde,27,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+378,PV27,Punto Verde,27,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+379,PV29,Punto Verde,29,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+380,PV29,Punto Verde,29,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+381,PV29,Punto Verde,29,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+382,PV24,Punto Verde,24,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+383,PV24,Punto Verde,24,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+384,PV24,Punto Verde,24,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+385,PV32,Punto Verde,32,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+386,PV32,Punto Verde,32,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+387,PV32,Punto Verde,32,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+388,PV34,Punto Verde,34,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+389,PV34,Punto Verde,34,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+390,PV34,Punto Verde,34,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+391,PV32,Punto Verde,32,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+392,PV32,Punto Verde,32,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+393,PV32,Punto Verde,32,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+394,PV33,Punto Verde,33,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+395,PV33,Punto Verde,33,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+396,PV33,Punto Verde,33,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+397,PV34,Punto Verde,34,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+398,PV34,Punto Verde,34,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+399,PV34,Punto Verde,34,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+400,PV35,Punto Verde,35,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+401,PV35,Punto Verde,35,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+402,PV35,Punto Verde,35,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+403,PV36,Punto Verde,36,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+404,PV36,Punto Verde,36,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+405,PV36,Punto Verde,36,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+406,PV1,Punto Verde,1,Buena,1.00,Papel,Alto,3.00,Sí,Buena
+407,PV1,Punto Verde,1,Buena,1.00,"Vidrio, Metal, Tetra",Alto,3.00,Sí,Buena
+408,PV1,Punto Verde,1,Buena,1.00,Plástico,Alto,3.00,Sí,Buena
+409,PV11,Punto Verde,11,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+410,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+411,PV11,Punto Verde,11,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+412,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+413,PV7,Punto Verde,7,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+414,PV7,Punto Verde,7,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+415,PV3,Punto Verde,3,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+416,PV3,Punto Verde,3,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+417,PV3,Punto Verde,3,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+418,PV4,Punto Verde,4,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+419,PV4,Punto Verde,4,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+420,PV4,Punto Verde,4,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+421,PV11,Punto Verde,11,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+422,PV11,Punto Verde,11,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+423,PV11,Punto Verde,11,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+424,PV7,Punto Verde,7,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+425,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+426,PV7,Punto Verde,7,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+427,PV3,Punto Verde,3,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+428,PV3,Punto Verde,3,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+429,PV3,Punto Verde,3,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+430,PV8,Punto Verde,8,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+431,PV8,Punto Verde,8,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+432,PV8,Punto Verde,8,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+433,PV12,Punto Verde,12,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+434,PV12,Punto Verde,12,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+435,PV12,Punto Verde,12,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+436,PV13,Punto Verde,13,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+437,PV13,Punto Verde,13,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+438,PV13,Punto Verde,13,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+439,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+440,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+441,PV18,Punto Verde,18,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+442,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+443,PV25,Punto Verde,25,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+444,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+445,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+446,PV28,Punto Verde,28,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+447,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+448,PV27,Punto Verde,27,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+449,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+450,PV27,Punto Verde,27,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+451,PV29,Punto Verde,29,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+452,PV29,Punto Verde,29,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+453,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+454,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+455,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+456,PV24,Punto Verde,24,Regular,2.00,Plástico,Bajo,1.00,Sí,Regular
+457,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+458,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+459,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+460,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+461,PV32,Punto Verde,32,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+462,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+463,PV33,Punto Verde,33,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+464,PV33,Punto Verde,33,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+465,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+466,PV34,Punto Verde,34,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+467,PV34,Punto Verde,34,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+468,PV34,Punto Verde,34,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+469,PV35,Punto Verde,35,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+470,PV35,Punto Verde,35,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+471,PV35,Punto Verde,35,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+472,PV36,Punto Verde,36,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+473,PV36,Punto Verde,36,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+474,PV36,Punto Verde,36,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+475,PV21,Punto Verde,21,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+476,PV21,Punto Verde,21,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+477,PV21,Punto Verde,21,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+478,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+479,PV20,Punto Verde,20,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+480,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+481,PV23,Punto Verde,23,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+482,PV23,Punto Verde,23,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+483,PV23,Punto Verde,23,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+484,PV34,Punto Verde,34,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+485,PV34,Punto Verde,34,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+486,PV34,Punto Verde,34,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+487,PV35,Punto Verde,35,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+488,PV35,Punto Verde,35,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+489,PV35,Punto Verde,35,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+490,PV36,Punto Verde,36,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+491,PV36,Punto Verde,36,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+492,PV36,Punto Verde,36,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+493,PV20,Punto Verde,20,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+494,PV20,Punto Verde,20,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+495,PV20,Punto Verde,20,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+496,PV21,Punto Verde,21,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+497,PV21,Punto Verde,21,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+498,PV21,Punto Verde,21,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+499,PV23,Punto Verde,23,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+500,PV23,Punto Verde,23,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+501,PV23,Punto Verde,23,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+502,PV11,Punto Verde,11,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+503,PV11,Punto Verde,11,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+504,PV11,Punto Verde,11,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+505,PV7,Punto Verde,7,Buena,1.00,Papel,Bajo,1.00,Sí,Buena
+506,PV7,Punto Verde,7,Buena,1.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Buena
+507,PV7,Punto Verde,7,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+508,PV3,Punto Verde,3,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+509,PV3,Punto Verde,3,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+510,PV3,Punto Verde,3,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+511,PV1,Punto Verde,1,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+512,PV1,Punto Verde,1,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+513,PV1,Punto Verde,1,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+514,PV18,Punto Verde,18,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+515,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+516,PV18,Punto Verde,18,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+517,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+518,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+519,PV25,Punto Verde,25,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+520,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+521,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+522,PV28,Punto Verde,28,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+523,PV29,Punto Verde,29,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+524,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+525,PV29,Punto Verde,29,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+526,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+527,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+528,PV24,Punto Verde,24,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+529,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+530,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+531,PV32,Punto Verde,32,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+532,PV18,Punto Verde,18,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+533,PV18,Punto Verde,18,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+534,PV18,Punto Verde,18,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+535,PV25,Punto Verde,25,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+536,PV25,Punto Verde,25,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+537,PV25,Punto Verde,25,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+538,PV28,Punto Verde,28,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+539,PV28,Punto Verde,28,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+540,PV28,Punto Verde,28,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+541,PV27,Punto Verde,27,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+542,PV27,Punto Verde,27,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+543,PV27,Punto Verde,27,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+544,PV29,Punto Verde,29,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+545,PV29,Punto Verde,29,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+546,PV29,Punto Verde,29,Regular,2.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Regular
+547,PV24,Punto Verde,24,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+548,PV24,Punto Verde,24,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+549,PV24,Punto Verde,24,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+550,PV32,Punto Verde,32,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+551,PV32,Punto Verde,32,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+552,PV32,Punto Verde,32,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+553,PV33,Punto Verde,33,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+554,PV33,Punto Verde,33,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+555,PV33,Punto Verde,33,Regular,2.00,Papel,Bajo,1.00,Sí,Regular
+556,PV13,Punto Verde,13,Regular,2.00,Plástico,Medio,2.00,Sí,Regular
+557,PV13,Punto Verde,13,Regular,2.00,Papel,Medio,2.00,Sí,Regular
+558,PV13,Punto Verde,13,Regular,2.00,"Vidrio, Metal, Tetra",Medio,2.00,Sí,Regular
+559,PV12,Punto Verde,12,Buena,1.00,"Vidrio, Metal, Tetra",Bajo,1.00,Sí,Buena
+560,PV12,Punto Verde,12,Buena,1.00,Papel,Medio,2.00,Sí,Buena
+561,PV12,Punto Verde,12,Buena,1.00,Plástico,Medio,2.00,Sí,Buena
+562,R1,Rulero,1,Regular,2.00,PET,Medio,2.00,Sí,Regular
+563,R1,Rulero,1,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+564,R1,Rulero,1,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+565,R1,Rulero,1,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+566,R1,Rulero,1,Buena,1.00,PET,Alto,3.00,Sí,Buena
+567,R1,Rulero,1,Buena,1.00,PET,Medio,2.00,Sí,Buena
+568,R1,Rulero,1,Buena,1.00,PET,Medio,2.00,Sí,Buena
+569,R3,Rulero,3,Regular,2.00,PET,Medio,2.00,Sí,Regular
+570,R3,Rulero,3,Regular,2.00,PET,Medio,2.00,Sí,Regular
+571,R3,Rulero,3,Regular,2.00,PET,Medio,2.00,Sí,Regular
+572,R3,Rulero,3,Regular,2.00,PET,Medio,2.00,No,Regular
+573,R3,Rulero,3,Buena,1.00,PET,Medio,2.00,Sí,Buena
+574,R3,Rulero,3,Buena,1.00,PET,Medio,2.00,Sí,Buena
+575,R4,Rulero,4,Buena,1.00,PET,Medio,2.00,Sí,Buena
+576,R5,Rulero,5,Regular,2.00,PET,Medio,2.00,Sí,Regular
+577,R5,Rulero,5,Regular,2.00,PET,Medio,2.00,Sí,Regular
+578,R5,Rulero,5,Regular,2.00,PET,Medio,2.00,Sí,Regular
+579,R5,Rulero,5,Regular,2.00,PET,Medio,2.00,Sí,Regular
+580,R5,Rulero,5,Buena,1.00,PET,Alto,3.00,Sí,Buena
+581,R8,Rulero,8,Regular,2.00,PET,Medio,2.00,Sí,Regular
+582,R8,Rulero,8,Regular,2.00,PET,Medio,2.00,Sí,Regular
+583,R8,Rulero,8,Regular,2.00,PET,Medio,2.00,Sí,Regular
+584,R8,Rulero,8,Regular,2.00,PET,Medio,2.00,Sí,Regular
+585,R8,Rulero,8,Regular,2.00,PET,Medio,2.00,Sí,Regular
+586,R8,Rulero,8,Buena,1.00,PET,Medio,2.00,Sí,Buena
+587,R9,Rulero,9,Regular,2.00,PET,Medio,2.00,Sí,Regular
+588,R9,Rulero,9,Regular,2.00,PET,Medio,2.00,Sí,Regular
+589,R9,Rulero,9,Regular,2.00,PET,Medio,2.00,Sí,Regular
+590,R9,Rulero,9,Regular,2.00,PET,Medio,2.00,Sí,Regular
+591,R9,Rulero,9,Regular,2.00,PET,Medio,2.00,Sí,Regular
+592,R9,Rulero,9,Buena,1.00,PET,Medio,2.00,Sí,Buena
+593,R9,Rulero,9,Buena,1.00,PET,Medio,2.00,Sí,Buena
+594,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+595,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+596,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+597,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+598,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+599,R11,Rulero,11,Regular,2.00,PET,Medio,2.00,Sí,Regular
+600,R11,Rulero,11,Buena,1.00,PET,Medio,2.00,Sí,Buena
+601,R12,Rulero,12,Regular,2.00,PET,Medio,2.00,Sí,Regular
+602,R12,Rulero,12,Regular,2.00,PET,Medio,2.00,Sí,Regular
+603,R12,Rulero,12,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+604,R13,Rulero,13,Regular,2.00,PET,Medio,2.00,Sí,Regular
+605,R13,Rulero,13,Regular,2.00,PET,Medio,2.00,Sí,Regular
+606,R13,Rulero,13,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+607,R13,Rulero,13,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+608,R14,Rulero,14,Regular,2.00,PET,Medio,2.00,Sí,Regular
+609,R14,Rulero,14,Regular,2.00,PET,Medio,2.00,Sí,Regular
+610,R14,Rulero,14,Regular,2.00,PET,Medio,2.00,Sí,Regular
+611,R14,Rulero,14,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+612,R14,Rulero,14,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+613,R14,Rulero,14,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+614,R15,Rulero,15,Regular,2.00,PET,Medio,2.00,Sí,Regular
+615,R15,Rulero,15,Regular,2.00,PET,Medio,2.00,Sí,Regular
+616,R15,Rulero,15,Regular,2.00,PET,Medio,2.00,Sí,Regular
+617,R15,Rulero,15,Regular,2.00,PET,Medio,2.00,Sí,Regular
+618,R15,Rulero,15,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+619,R15,Rulero,15,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+620,R15,Rulero,15,Buena,1.00,PET,Medio,2.00,Sí,Buena
+621,R15,Rulero,15,Buena,1.00,PET,Medio,2.00,Sí,Buena
+622,R16,Rulero,16,Regular,2.00,PET,Medio,2.00,Sí,Regular
+623,R16,Rulero,16,Regular,2.00,PET,Medio,2.00,Sí,Regular
+624,R16,Rulero,16,Regular,2.00,PET,Medio,2.00,Sí,Regular
+625,R16,Rulero,16,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+626,R16,Rulero,16,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+627,R16,Rulero,16,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+628,R16,Rulero,16,Buena,1.00,PET,Medio,2.00,Sí,Buena
+629,R16,Rulero,16,Buena,1.00,PET,Medio,2.00,Sí,Buena
+630,R17,Rulero,17,Regular,2.00,PET,Medio,2.00,Sí,Regular
+631,R17,Rulero,17,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+632,R17,Rulero,17,Buena,1.00,PET,Medio,2.00,Sí,Buena
+633,R18,Rulero,18,Regular,2.00,PET,Medio,2.00,Sí,Regular
+634,R18,Rulero,18,Regular,2.00,PET,Medio,2.00,Sí,Regular
+635,R18,Rulero,18,Regular,2.00,PET,Medio,2.00,Sí,Regular
+636,R18,Rulero,18,Regular,2.00,PET,Medio,2.00,Sí,Regular
+637,R18,Rulero,18,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+638,R18,Rulero,18,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+639,R18,Rulero,18,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+640,R18,Rulero,18,Buena,1.00,PET,Medio,2.00,Sí,Buena
+641,R18,Rulero,18,Buena,1.00,PET,Medio,2.00,Sí,Buena
+642,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+643,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+644,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+645,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+646,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+647,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+648,R19,Rulero,19,Regular,2.00,PET,Medio,2.00,Sí,Regular
+649,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+650,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+651,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+652,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+653,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+654,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+655,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+656,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+657,R19,Rulero,19,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+658,R19,Rulero,19,Buena,1.00,PET,Bajo,1.00,Sí,Buena
+659,R19,Rulero,19,Buena,1.00,PET,Medio,2.00,Sí,Buena
+660,R20,Rulero,20,Regular,2.00,PET,Medio,2.00,Sí,Regular
+661,R20,Rulero,20,Regular,2.00,PET,Medio,2.00,Sí,Regular
+662,R20,Rulero,20,Regular,2.00,PET,Medio,2.00,Sí,Regular
+663,R20,Rulero,20,Regular,2.00,PET,Medio,2.00,Sí,Regular
+664,R20,Rulero,20,Regular,2.00,PET,Medio,2.00,Sí,Regular
+665,R20,Rulero,20,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+666,R20,Rulero,20,Buena,1.00,PET,Alto,3.00,Sí,Buena
+667,R21,Rulero,21,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+668,R21,Rulero,21,Buena,1.00,PET,Medio,2.00,Sí,Buena
+669,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+670,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+671,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+672,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+673,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+674,R22,Rulero,22,Regular,2.00,PET,Medio,2.00,Sí,Regular
+675,R22,Rulero,22,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+676,R23,Rulero,23,Regular,2.00,PET,Medio,2.00,Sí,Regular
+677,R23,Rulero,23,Regular,2.00,PET,Medio,2.00,Sí,Regular
+678,R23,Rulero,23,Regular,2.00,PET,Medio,2.00,Sí,Regular
+679,R23,Rulero,23,Regular,2.00,PET,Medio,2.00,Sí,Regular
+680,R23,Rulero,23,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+681,R23,Rulero,23,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+682,R23,Rulero,23,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+683,R23,Rulero,23,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+684,R23,Rulero,23,Buena,1.00,PET,Medio,2.00,Sí,Buena
+685,R24,Rulero,24,Regular,2.00,PET,Medio,2.00,Sí,Regular
+686,R24,Rulero,24,Regular,2.00,PET,Medio,2.00,Sí,Regular
+687,R24,Rulero,24,Regular,2.00,PET,Medio,2.00,Sí,Regular
+688,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+689,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+690,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+691,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+692,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+693,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+694,R24,Rulero,24,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+695,R25,Rulero,25,Regular,2.00,PET,Medio,2.00,Sí,Regular
+696,R25,Rulero,25,Regular,2.00,PET,Medio,2.00,Sí,Regular
+697,R25,Rulero,25,Regular,2.00,PET,Medio,2.00,Sí,Regular
+698,R25,Rulero,25,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+699,R25,Rulero,25,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+700,R25,Rulero,25,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+701,R25,Rulero,25,Buena,1.00,PET,Medio,2.00,Sí,Buena
+702,R25,Rulero,25,Buena,1.00,PET,Medio,2.00,Sí,Buena
+703,R26,Rulero,26,Regular,2.00,PET,Medio,2.00,Sí,Regular
+704,R26,Rulero,26,Regular,2.00,PET,Medio,2.00,Sí,Regular
+705,R26,Rulero,26,Regular,2.00,PET,Medio,2.00,Sí,Regular
+706,R26,Rulero,26,Regular,2.00,PET,Medio,2.00,Sí,Regular
+707,R26,Rulero,26,Regular,2.00,PET,Medio,2.00,Sí,Regular
+708,R26,Rulero,26,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+709,R26,Rulero,26,Buena,1.00,PET,Alto,3.00,Sí,Buena
+710,R27,Rulero,27,Regular,2.00,PET,Medio,2.00,Sí,Regular
+711,R27,Rulero,27,Regular,2.00,PET,Medio,2.00,Sí,Regular
+712,R27,Rulero,27,Regular,2.00,PET,Medio,2.00,Sí,Regular
+713,R27,Rulero,27,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+714,R27,Rulero,27,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+715,R27,Rulero,27,Buena,1.00,PET,Medio,2.00,Sí,Buena
+716,R28,Rulero,28,Regular,2.00,PET,Medio,2.00,Sí,Regular
+717,R28,Rulero,28,Regular,2.00,PET,Medio,2.00,Sí,Regular
+718,R28,Rulero,28,Regular,2.00,PET,Medio,2.00,Sí,Regular
+719,R28,Rulero,28,Regular,2.00,PET,Medio,2.00,Sí,Regular
+720,R28,Rulero,28,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+721,R28,Rulero,28,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+722,R28,Rulero,28,Buena,1.00,PET,Medio,2.00,Sí,Buena
+723,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+724,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+725,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+726,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+727,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+728,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+729,R29,Rulero,29,Regular,2.00,PET,Medio,2.00,Sí,Regular
+730,R29,Rulero,29,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+731,R29,Rulero,29,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+732,R29,Rulero,29,Buena,1.00,PET,Alto,3.00,Sí,Buena
+733,R29,Rulero,29,Buena,1.00,PET,Medio,2.00,Sí,Buena
+734,R29,Rulero,29,Buena,1.00,PET,Medio,2.00,Sí,Buena
+735,R30,Rulero,30,Regular,2.00,PET,Medio,2.00,Sí,Regular
+736,R30,Rulero,30,Regular,2.00,PET,Medio,2.00,Sí,Regular
+737,R30,Rulero,30,Regular,2.00,PET,Medio,2.00,Sí,Regular
+738,R30,Rulero,30,Regular,2.00,PET,Medio,2.00,Sí,Regular
+739,R30,Rulero,30,Regular,2.00,PET,Medio,2.00,Sí,Regular
+740,R30,Rulero,30,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+741,R30,Rulero,30,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+742,R30,Rulero,30,Buena,1.00,PET,Alto,3.00,Sí,Buena
+743,R30,Rulero,30,Buena,1.00,PET,Medio,2.00,Sí,Buena
+744,R31,Rulero,31,Regular,2.00,PET,Medio,2.00,Sí,Regular
+745,R31,Rulero,31,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+746,R31,Rulero,31,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+747,R31,Rulero,31,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+748,R31,Rulero,31,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+749,R31,Rulero,31,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+750,R31,Rulero,31,Mala,3.00,PET,Bajo,1.00,Sí,Mala
+751,R32,Rulero,32,Regular,2.00,PET,Medio,2.00,Sí,Regular
+752,R32,Rulero,32,Regular,2.00,PET,Medio,2.00,Sí,Regular
+753,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+754,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+755,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+756,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+757,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+758,R32,Rulero,32,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+759,R32,Rulero,32,Buena,1.00,PET,Medio,2.00,Sí,Buena
+760,R32,Rulero,32,Buena,1.00,PET,Medio,2.00,Sí,Buena
+761,R32,Rulero,32,Buena,1.00,PET,Medio,2.00,Sí,Buena
+762,R33,Rulero,33,Regular,2.00,PET,Medio,2.00,Sí,Regular
+763,R33,Rulero,33,Regular,2.00,PET,Medio,2.00,Sí,Regular
+764,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+765,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+766,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+767,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+768,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+769,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+770,R33,Rulero,33,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+771,R34,Rulero,34,Regular,2.00,PET,Medio,2.00,Sí,Regular
+772,R34,Rulero,34,Regular,2.00,PET,Medio,2.00,Sí,Regular
+773,R34,Rulero,34,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+774,R34,Rulero,34,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+775,R34,Rulero,34,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+776,R34,Rulero,34,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+777,R34,Rulero,34,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+778,R34,Rulero,34,Buena,1.00,PET,Medio,2.00,Sí,Buena
+779,R35,Rulero,35,Regular,2.00,PET,Medio,2.00,Sí,Regular
+780,R35,Rulero,35,Regular,2.00,PET,Medio,2.00,Sí,Regular
+781,R35,Rulero,35,Regular,2.00,PET,Medio,2.00,Sí,Regular
+782,R35,Rulero,35,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+783,R35,Rulero,35,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+784,R35,Rulero,35,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+785,R35,Rulero,35,Buena,1.00,PET,Alto,3.00,Sí,Buena
+786,R35,Rulero,35,Buena,1.00,PET,Medio,2.00,Sí,Buena
+787,R35,Rulero,35,Buena,1.00,PET,Medio,2.00,Sí,Buena
+788,R36,Rulero,36,Regular,2.00,PET,Medio,2.00,Sí,Regular
+789,R36,Rulero,36,Regular,2.00,PET,Medio,2.00,Sí,Regular
+790,R36,Rulero,36,Regular,2.00,PET,Medio,2.00,Sí,Regular
+791,R36,Rulero,36,Regular,2.00,PET,Medio,2.00,Sí,Regular
+792,R36,Rulero,36,Regular,2.00,PET,Medio,2.00,Sí,Regular
+793,R36,Rulero,36,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+794,R36,Rulero,36,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+795,R36,Rulero,36,Buena,1.00,PET,Medio,2.00,Sí,Buena
+796,R37,Rulero,37,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+797,R37,Rulero,37,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+798,R37,Rulero,37,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+799,R37,Rulero,37,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+800,R37,Rulero,37,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+801,R38,Rulero,38,Regular,2.00,PET,Medio,2.00,Sí,Regular
+802,R38,Rulero,38,Regular,2.00,PET,Medio,2.00,Sí,Regular
+803,R38,Rulero,38,Regular,2.00,PET,Medio,2.00,Sí,Regular
+804,R38,Rulero,38,Regular,2.00,PET,Medio,2.00,Sí,Regular
+805,R38,Rulero,38,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+806,R38,Rulero,38,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+807,R38,Rulero,38,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+808,R38,Rulero,38,Buena,1.00,PET,Medio,2.00,Sí,Buena
+809,R38,Rulero,38,Buena,1.00,PET,Medio,2.00,Sí,Buena
+810,R39,Rulero,39,Regular,2.00,PET,Medio,2.00,Sí,Regular
+811,R39,Rulero,39,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+812,R39,Rulero,39,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+813,R39,Rulero,39,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+814,R39,Rulero,39,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+815,R39,Rulero,39,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+816,R39,Rulero,39,Mala,3.00,PET,Bajo,1.00,Sí,Mala
+817,R39,Rulero,39,Mala,3.00,PET,Bajo,1.00,Sí,Mala
+818,R40,Rulero,40,Regular,2.00,PET,Medio,2.00,Sí,Regular
+819,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+820,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+821,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+822,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+823,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+824,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+825,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
+826,R40,Rulero,40,Regular,2.00,PET,Bajo,1.00,Sí,Regular
